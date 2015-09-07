@@ -1,6 +1,6 @@
 <?php
 /**
- * UnitTest webservice
+ * UnitTest webservice 
  * Test each method in SMservice.
  */
 
