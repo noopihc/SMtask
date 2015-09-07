@@ -1,6 +1,6 @@
 <?php
 /**
- * SearchMetrics webservice.
+ * SM webservice.
  */
 
 require_once("config.php"); // Include database configuration file

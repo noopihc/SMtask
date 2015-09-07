@@ -3,7 +3,7 @@
  * Single database configuration file.
  */
 
-define('MYSQL_NAME', 'searchmetrics');
+define('MYSQL_NAME', 'smdb');
 define('MYSQL_PORT', '3306');
 define('MYSQL_HOST', 'localhost');
 define('MYSQL_USER', 'root');
